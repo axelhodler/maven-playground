@@ -3,7 +3,7 @@
 
   <groupId>xor.test</groupId>
   <artifactId>releasetest</artifactId>
-  <version>1.6-SNAPSHOT</version>
+  <version>1.5-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>releasetest</name>
